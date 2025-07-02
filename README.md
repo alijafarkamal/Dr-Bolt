@@ -1,4 +1,4 @@
-# Dr. Bolt - AI Health Consultation App
+# Dr. Bolt - AI Health Consultation
 
 ## ⚠️ Important Disclaimer
 

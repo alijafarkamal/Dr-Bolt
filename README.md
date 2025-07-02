@@ -6,6 +6,9 @@ A fully responsive, modern React + Vite + Tailwind CSS medical consultation web 
 
 **This is a demo AI medical assistant, not a licensed doctor. Do not use this for real medical decisions.**
 
+⚠️ This project is made public for demonstration purposes only.
+Unauthorized copying or commercial use is prohibited.
+
 ## 🚀 Features
 
 - **Voice-First Interaction**: Natural voice conversation with AI

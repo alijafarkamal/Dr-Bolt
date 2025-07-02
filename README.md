@@ -1,4 +1,4 @@
-# Dr. Bolt - AI Health Consultation App
+# Dr. Bolt - AI Health Consultation
 
 A fully responsive, modern React + Vite + Tailwind CSS medical consultation web app that provides AI-powered health guidance through voice interactions.
 
